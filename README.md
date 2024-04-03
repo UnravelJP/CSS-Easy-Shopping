@@ -23,10 +23,22 @@ O Easy Shopping é um projeto simples e elegante, concentrado em criar uma tela 
 <h2>Screenshots</h2>
 
 **Computador e telas semelhantes:**
-<img width=300px src="https://raw.githubusercontent.com/UnravelJP/CSS-Easy-Shopping/master/screenshot-1.png">
+
+<div align="center">
+<img width=1000px src="https://raw.githubusercontent.com/UnravelJP/CSS-Easy-Shopping/master/screenshot-1.png">
+</div>
+<br>
+<br>
+<br>
+<br>
 
 **Telas de dispositivos móveis:**
-<img width=200px src="https://raw.githubusercontent.com/UnravelJP/CSS-Easy-Shopping/master/screenshot-2.png">
+
+<div align="center">
+<img height=450px src="https://raw.githubusercontent.com/UnravelJP/CSS-Easy-Shopping/master/screenshot-2.png">
+</div>
+<br>
+<br>
 
 <h2>Como Usar</h2>
 Para visualizar a tela inicial do Easy Shopping, basta abrir o arquivo index.html em qualquer navegador web moderno. Você também pode fazer o download do repositório e personalizar o código conforme necessário para o seu próprio projeto. Se preferir pode <a href="https://unraveljp.github.io/CSS-Easy-Shopping/"> clicar aqui</a> para abrir o projeto.
