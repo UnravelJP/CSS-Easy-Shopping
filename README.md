@@ -33,6 +33,6 @@ Obrigado por conferir o projeto Easy Shopping! Espero que ele seja útil para ap
 Se tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, você pode me encontrar no:
 <br>
 <br>
-<a href="https://github.com/UnravelJP"><img width=35px src="https://cdn.icon-icons.com/icons2/936/PNG/96/github-logo_icon-icons.com_73546.png"><a/>
-<a href="https://www.linkedin.com/in/engjoaopaulo7/"><img width=35px src="https://cdn.icon-icons.com/icons2/2428/PNG/96/linkedin_black_logo_icon_147114.png"><img/><a/>
-<a href="https://www.instagram.com/joaopaulu7/"><img width=35px src="https://cdn.icon-icons.com/icons2/2428/PNG/96/instagram_black_logo_icon_147122.png"><img/><a/>
+<a href="https://github.com/UnravelJP"><img width=35px src="https://cdn.icon-icons.com/icons2/936/PNG/96/github-logo_icon-icons.com_73546.png"></a>
+<a href="https://www.linkedin.com/in/engjoaopaulo7/"><img width=35px src="https://cdn.icon-icons.com/icons2/2428/PNG/96/linkedin_black_logo_icon_147114.png"><img/></a>
+<a href="https://www.instagram.com/joaopaulu7/"><img width=35px src="https://cdn.icon-icons.com/icons2/2428/PNG/96/instagram_black_logo_icon_147122.png"><img/></a>
